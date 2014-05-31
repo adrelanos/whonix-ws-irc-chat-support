@@ -1,0 +1,20 @@
+## This file is part of Whonix.
+## Copyright (C) 2012 - 2014 Patrick Schleizer <adrelanos@riseup.net>
+## See the file COPYING for copying conditions.
+
+Source: whonix-ws-irc-chat-support
+Section: misc
+Priority: optional
+Maintainer: Patrick Schleizer <adrelanos@riseup.net>
+Build-Depends: debhelper (>= 8), faketime, git, ruby-ronn (>= 0.7.3)
+Homepage: https://github.com/Whonix/whonix-ws-irc-chat-support
+Vcs-Browser: https://github.com/Whonix/whonix-ws-irc-chat-support
+Vcs-Git: https://github.com/Whonix/whonix-ws-irc-chat-support.git
+Standards-Version: 3.9.4
+
+Package: whonix-ws-irc-chat-support
+Architecture: all
+Depends: xchat, ${misc:Depends}
+Recommends: xchat-improved-privacy, anon-icon-pack
+Description: Shortcut to join the Whonix user-to-user Support Channel
+ Joins #Whonix on irc.oftc.net. Creates a start menu entry and desktop icon.
