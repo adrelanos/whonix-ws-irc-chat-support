@@ -4,7 +4,7 @@
 
 [Desktop Entry]
 Type=Application
-Exec=xchat --url ircs://irc.oftc.net:9999/#Whonix
+Exec=hexchat --url ircs://irc.oftc.net:9999/#Whonix
 Name=Chat Support
 GenericName=Whonix IRC Chat Support
 Comment=User to User IRC Support for Whonix
