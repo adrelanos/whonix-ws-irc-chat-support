@@ -1,3 +1,17 @@
+commit ad98f8b66bf1e2b8c1cb8b1425330748a69acde0
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Apr 26 20:33:49 2016 +0000
+
+    ported from xchat to hexchat
+    
+    https://phabricator.whonix.org/T40
+
+commit 9125e3aa049a6273c1f091688dbe07977eebb39f
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Aug 25 14:08:39 2015 +0000
+
+    bumped changelog version
+
 commit 2afe50f48b3847df389a617c964de941fe61357d
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Wed Jun 3 15:00:50 2015 +0000
