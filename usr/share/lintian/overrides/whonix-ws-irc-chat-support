@@ -1,2 +1,2 @@
 # This package really only ships a start menu and desktop shortcut.
-whonix-ws-irc-chat-support: desktop-command-not-in-package usr/share/applications/whonix-irc-chat-support.desktop xchat
+whonix-ws-irc-chat-support: desktop-command-not-in-package usr/share/applications/whonix-irc-chat-support.desktop hexchat
