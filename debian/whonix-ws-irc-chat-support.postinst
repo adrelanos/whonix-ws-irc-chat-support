@@ -20,8 +20,8 @@ case "$1" in
    configure)
       true "INFO: Configuring $DPKG_MAINTSCRIPT_PACKAGE..."
 
-      sudo -u user mkdir --parents /home/user/Desktop/
-      sudo -u user ln -s /usr/share/applications/whonix-irc-chat-support.desktop /home/user/Desktop/ || true
+      sudo --non-interactive -u user mkdir --parents /home/user/Desktop/
+      sudo --non-interactive -u user ln -s /usr/share/applications/whonix-irc-chat-support.desktop /home/user/Desktop/ || true
 
       true "INFO: End configuring $DPKG_MAINTSCRIPT_PACKAGE."
 
