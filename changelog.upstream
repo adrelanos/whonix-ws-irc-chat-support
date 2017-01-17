@@ -1,3 +1,15 @@
+commit ad79fb83a56ec62489b441fc9d8c3ad19b908b81
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Jan 17 10:55:48 2017 +0100
+
+    disable desktop shortcut since broken in stretch
+
+commit 3f7c06b7dded2c87b414bf68b2f44a1460aa0c56
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun Jan 15 15:40:30 2017 +0000
+
+    bumped changelog version
+
 commit a420eefd43c956be9340ac43e920f425a1abebff
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Sun Jan 15 08:35:54 2017 +0100
