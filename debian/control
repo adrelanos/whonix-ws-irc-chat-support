@@ -14,7 +14,7 @@ Standards-Version: 3.9.8
 Package: whonix-ws-irc-chat-support
 Architecture: all
 Depends: hexchat, sudo, ${misc:Depends}
-Recommends: anon-apps-config, anon-icon-pack
+Recommends: xchat-improved-privacy, anon-icon-pack
 Description: Shortcut to join the Whonix user-to-user Support Channel
  Joins #Whonix on irc.oftc.net. Creates a start menu entry and desktop icon.
  .
