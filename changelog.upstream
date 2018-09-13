@@ -1,3 +1,23 @@
+commit af364449c7d0a06926434248c151705665ec32b1
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Sep 11 09:33:27 2018 +0000
+
+    Revert "Recommends:"
+    
+    This reverts commit 328c02d3438ff9ba48723d5315ea76699603c829.
+
+commit 328c02d3438ff9ba48723d5315ea76699603c829
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Sep 11 09:30:00 2018 +0000
+
+    Recommends:
+
+commit e4cc4e1fc01f9be3b8c333f44b92f7f369e25e45
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Aug 27 17:09:29 2018 +0000
+
+    bumped changelog version
+
 commit ffdc7e7a6f3289f200c87df017d3aeb35352e466
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Tue Aug 21 05:18:58 2018 +0800
