@@ -1,3 +1,9 @@
+whonix-ws-irc-chat-support (3:2.2-1) unstable; urgency=medium
+
+  * New upstream version (local package).
+
+ -- Patrick Schleizer <adrelanos@riseup.net>  Tue, 12 Mar 2019 11:52:13 +0000
+
 whonix-ws-irc-chat-support (3:2.1-1) unstable; urgency=medium
 
   * New upstream version (local package).
