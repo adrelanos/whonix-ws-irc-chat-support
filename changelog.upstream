@@ -1,3 +1,33 @@
+commit 8eaccdd8a33309bba51234ba803f6fdaaf4c569b
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 2 07:23:10 2020 -0400
+
+    readme
+
+commit c2df718b20d96c47cce6c1bbf1f07734321efe0b
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Apr 1 17:35:01 2020 -0400
+
+    remove 'Build-Depends: ronn' since no longer required
+
+commit fd667039bc0a867a32739dcf5f14cf9e5b1f359d
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Apr 1 16:57:37 2020 -0400
+
+    remove genmkfile
+
+commit c9a97f2296fc2a7b2ceb45c18c395cf6cd406c41
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Apr 1 16:34:24 2020 -0400
+
+    add debian install file
+
+commit 864040ab93e3092b5012e99cac2fd8858ee2b750
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Apr 1 11:18:27 2020 -0400
+
+    bumped changelog version
+
 commit eba762942e1f3b6f851f2497b462f7eefd4fcb5c
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Wed Apr 1 08:50:03 2020 -0400
